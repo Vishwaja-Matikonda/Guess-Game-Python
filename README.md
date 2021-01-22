@@ -1,5 +1,7 @@
 Guess-Game-Python
 
+<img width="119" alt="Guess" src="https://user-images.githubusercontent.com/40309757/105427234-ab021680-5c72-11eb-9b99-84ef93ebba80.PNG">
+
 Python is a powerful multi-purpose programming language used by multiple giant companies. It has simple and easy to use syntax making it perfect language for someone trying to learn computer programming for first time. It is a high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to express concepts in a few lines of code.
 
 In this article, we will use random module to make a word guessing game. This game is for beginners learning to code in python and to give them a little brief about using strings, loops and conditional(If, else) statements.
